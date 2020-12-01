@@ -3,6 +3,10 @@ Projeto de uma API.NET integrada ao MongoDB - DIO
 
 Exemplo de aplicação .net core com mongodb.
 
+Link para o Mongo Charts com os resultados:
+
+https://charts.mongodb.com/charts-api-net-com-mongodb-qxbak/public/dashboards/5fc605c3-1aca-43fb-80ae-269caf6ee002
+
 Para teste:
 
 https://localhost:5001/infectado
